@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "slotguard",
+        "name": "SlotGuard",
+        "description": "Simple Inventory Slot Locker",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/XLuke44-Main/SlotGuard",
+        "updateUrl": "",
+        "authorList": ["XLuke44"],
+        "credits": "",
+        "logoFile": "logo.png",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

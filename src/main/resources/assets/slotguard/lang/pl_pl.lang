@@ -1,0 +1,4 @@
+key.slotguard.lock=Zablokuj slot
+key.slotguard.unlock=Odblokuj slot
+key.slotguard.clear_all=Wyczyść wszystkie blokady slotów
+key.categories.slotguard=SlotGuard
